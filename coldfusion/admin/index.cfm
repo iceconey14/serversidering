@@ -19,7 +19,7 @@
     </form>
     <hr>
     <h2>changePassWord</h2>
-    <form action="admin.cfm" method="post">
+    <form action="index.cfm" method="post">
         <label>New password (please change it):</label>
         <input type="password" name="new_password"><br>
         <input type="submit" value="change pass">
