@@ -1,0 +1,3 @@
+url'https://examplesite1.com'slug'examplesite1'
+url'https://examplesite2.com'slug'examplesite2'
+url'https://examplesite3.com'slug'examplesite3'
