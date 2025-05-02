@@ -1,2 +1,2 @@
 # server side webring scripts
-plz let me know at https://spacehey.com/e__ so i could actually see the code.
+i dont really know what half of the scripts look like tho
